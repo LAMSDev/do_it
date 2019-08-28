@@ -2,6 +2,11 @@
 
 Una nueva app de Flutter basada en la idea de un  gestor de tareas por hacer para estar organizados y organizados en nuestras actividades diarias.
 
+<p align="center">
+<img src="/imagenes\group-231.png" alt="IMG-Pantalla-Bienvenida"/>
+</p>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
